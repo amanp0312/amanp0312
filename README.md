@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Code_With_Arun</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunak7887&label=Profile%20views&color=0e75b6&style=flat" alt="arunak7887" /> </p>
+<h1 align="center">Hi 👋, I'm Code_With_Aman</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanp0312&label=Profile%20views&color=0e75b6&style=flat" alt="amanp0312" /> </p>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=arunak7887&theme=discord)
 
