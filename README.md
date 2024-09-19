@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Code_With_Aman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanp0312&label=Profile%20views&color=0e75b6&style=flat" alt="amanp0312" /> </p>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=arunak7887&theme=discord)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=amanp0312&theme=discord)
 
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am Data Analyst  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a  Data Analyst in Cyient Ltd.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -18,13 +18,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-- 🔭 I’m currently working on *Spring,Spring_Boot,React*
+- 🔭 I’m currently working on *Power BI,Python,MySQL,Power Apps & Power Automate*
 
-- 🌱 I’m currently learning *Core_Java,Javascript,Spring,Spring_Boot,React,Html,Css,BootStrap,Jdbc,Servlet,Jsp*
+- 🌱 I’m currently learning *Power BI,Python,MySQL,Power Apps & Power Automate*
 
-- 👨‍💻 All of my projects are available at [https://github.com/arunak7887](https://github.com/arunak7887)
+- 👨‍💻 All of my projects are available at [https://github.com/amanp0312](https://github.com/amanp0312)
 
-- 📫 How to reach me *arunkinwad02@gmail.com*
+- 📫 How to reach me *amanpatle.26@gmail.com*
 <h3 align="left">Languages:</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
